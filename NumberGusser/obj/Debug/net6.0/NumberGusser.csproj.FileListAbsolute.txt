@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\NumberGusser\bin\Debug\net6.0\NumberGusser.exe
+C:\Users\LENOVO\source\repos\NumberGusser\bin\Debug\net6.0\NumberGusser.deps.json
+C:\Users\LENOVO\source\repos\NumberGusser\bin\Debug\net6.0\NumberGusser.runtimeconfig.json
+C:\Users\LENOVO\source\repos\NumberGusser\bin\Debug\net6.0\NumberGusser.dll
+C:\Users\LENOVO\source\repos\NumberGusser\bin\Debug\net6.0\ref\NumberGusser.dll
+C:\Users\LENOVO\source\repos\NumberGusser\bin\Debug\net6.0\NumberGusser.pdb
+C:\Users\LENOVO\source\repos\NumberGusser\obj\Debug\net6.0\NumberGusser.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\NumberGusser\obj\Debug\net6.0\NumberGusser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\NumberGusser\obj\Debug\net6.0\NumberGusser.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\NumberGusser\obj\Debug\net6.0\NumberGusser.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\NumberGusser\obj\Debug\net6.0\NumberGusser.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\NumberGusser\obj\Debug\net6.0\NumberGusser.dll
+C:\Users\LENOVO\source\repos\NumberGusser\obj\Debug\net6.0\ref\NumberGusser.dll
+C:\Users\LENOVO\source\repos\NumberGusser\obj\Debug\net6.0\NumberGusser.pdb
+C:\Users\LENOVO\source\repos\NumberGusser\obj\Debug\net6.0\NumberGusser.genruntimeconfig.cache
